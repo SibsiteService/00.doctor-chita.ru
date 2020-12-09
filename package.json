@@ -1,0 +1,43 @@
+{
+  "name": "doctor-chita.ru",
+  "description": "Медицинский центр Ваш Доктор в Чите является официальным представителем лабораторий Гемотест в Чите. Здесь Вы можете пройти медицинские обследования, сдать анализы, сделать УЗИ.",
+  "version": "1.0.0",
+  "author": "Denis Kuznetsov",
+  "dependencies": {
+    "gatsby": "^2.23.3",
+    "gatsby-plugin-google-analytics": "^2.1.23",
+    "gatsby-plugin-google-tagmanager": "^2.1.15",
+    "gatsby-plugin-manifest": "^2.2.16",
+    "gatsby-plugin-modal-routing": "^1.1.0",
+    "gatsby-plugin-offline": "^3.0.6",
+    "gatsby-plugin-react-helmet": "^3.1.11",
+    "gatsby-plugin-robots-txt": "^1.5.1",
+    "gatsby-plugin-sass": "^2.1.14",
+    "gatsby-plugin-sitemap": "^2.2.17",
+    "gatsby-plugin-yandex-metrika": "^1.3.0",
+    "infinite-react-carousel": "^1.2.11",
+    "node-sass": "^4.14.1",
+    "react": "^16.9.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-cookie-consent": "^2.5.0",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1",
+    "react-scroll-to-element": "^0.2.0",
+    "react-scrollspy": "^3.4.0",
+    "react-waypoint": "^9.0.2",
+    "react-web-tabs": "^1.0.1"
+  },
+  "keywords": [
+    "узи чита, гинеколог чита, беременность чита, беременность сопровождение, ваш доктор, ваш доктор чита, doctor-chita, doctor chita, чита, анализы, доктор, сдать анализы, сдать анализы чита, академия здоровья, днк, где сдать анализы"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write '**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
