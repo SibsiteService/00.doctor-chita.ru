@@ -38,7 +38,7 @@ class Generic extends React.Component {
         <Helmet>
         <title>УЗИ В Чите - Ваш Доктор, Гемотест Чита</title>
         <meta name="yandex-verification" content="2c6b2cd549700b18" />
-        <meta name="description" content="Где сделать УЗИ Чита? Ваш Доктор - официальный партнер лаборатории Гемотест в Чите."></meta>
+        <meta name="description" content="Где сделать УЗИ Чита? Узи на шилова чита. Ваш Доктор - официальный партнер лаборатории Гемотест в Чите."></meta>
         </Helmet>
           
         <Header/>
